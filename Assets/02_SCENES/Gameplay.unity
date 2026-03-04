@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.17276844, g: 0.21589246, b: 0.2978263, a: 1}
+  m_IndirectSpecularColor: {r: 0.172768, g: 0.21589167, b: 0.29782546, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -4694,7 +4694,7 @@ MonoBehaviour:
   _boosterContainer: {fileID: 1340215840}
   _board: {fileID: 1249839176}
   _rocketSpawner: {fileID: 1956246288}
-  _rocketPrefab: {fileID: 2980239702773050367, guid: ee18b155eee959f4d9f7f6127eba964c, type: 3}
+  _rocketPrefab: {fileID: 263108929438959775, guid: ee18b155eee959f4d9f7f6127eba964c, type: 3}
 --- !u!1 &1359645989
 GameObject:
   m_ObjectHideFlags: 0
