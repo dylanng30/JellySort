@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4527853e1a7b68d42a4146057728f932, type: 3}
+  m_Name: HammerBooster
+  m_EditorClassIdentifier: 
+  BoosterType: 0
+  BoosterName: 
+  Description: 
+  Icon: {fileID: 0}
+  RequiresTargetSelection: 1
+  UseVfxPrefab: {fileID: 0}
+  HammerModelPrefab: {fileID: 2755744773800659465, guid: 3aef8216824d25e46a2c8cae6f1ce6f2, type: 3}
